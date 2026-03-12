@@ -659,7 +659,7 @@ html, body {
    BOTTOM NAV
 ══════════════════════════════════════════ */
 .bottom-nav {
-  position: absolute;
+  position: fixed;
   bottom: 0; left: 0; right: 0;
   background: rgba(13,31,22,0.97);
   backdrop-filter: blur(12px);
@@ -791,4 +791,5 @@ html, body {
     border-radius: 24px;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
   }
+
 }
