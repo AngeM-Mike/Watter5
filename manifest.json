@@ -1,8 +1,8 @@
 {
-  "name": "Watter5",
-  "short_name": "Watter5",
+  "name": "Water5",
+  "short_name": "Water5",
   "description": "Irrigation intelligente par IA - Yamoussoukro, Côte d'Ivoire",
-  "start_url": "/watter5/",
+  "start_url": "/water5/",
   "display": "standalone",
   "background_color": "#0D1F16",
   "theme_color": "#0D1F16",
@@ -23,4 +23,5 @@
     }
   ]
 }
+
 
